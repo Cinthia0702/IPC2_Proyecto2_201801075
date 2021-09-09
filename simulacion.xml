@@ -1,0 +1,10 @@
+<Simulacion>
+    <Nombre>Reloj</Nombre>
+    <ListadoProductos>
+        <Producto>Reloj1</Producto>
+        <Producto>Reloj2</Producto>
+        <Producto>Reloj3</Producto>
+        <Producto>Reloj4</Producto>
+        <Producto>Reloj5</Producto>
+    </ListadoProductos>
+</Simulacion>
